@@ -1,0 +1,63 @@
+.Header1{
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+    font-weight: 300;
+    justify-content: space-between;
+    line-height: 27px;
+    margin: 0px 173.6px;
+    padding: 8px 15px;
+    
+}
+
+.logo1 img{
+    width: 89px;
+    height:90px;
+}
+
+.text1{
+    font-family: DM Sans;
+    font-weight: light;
+    font-size: 20px;
+    letter-spacing: 0.3px;
+    color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 40%;
+    cursor: pointer;
+}
+
+.home:hover{
+    color: #c49b63;
+}
+
+.menu:hover{
+    color: #c49b63;
+}
+
+.about:hover{
+    color: #c49b63;
+}
+
+.shop:hover{
+    color: #c49b63;
+}
+
+
+.main_content1{
+    position: absolute;
+    width: 25%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding:0px 15px;
+    font-weight: 300;
+    text-align: center;
+}
+
+
+

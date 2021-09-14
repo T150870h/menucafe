@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+header{
+    background-color: #cccccc;
+    min-height: 70px;
+    padding: 15px;
+}
+body {
+    width: 100%;
+    height: 100vh;
+}
+footer{
+    background-color: #cccccc;
+    min-height: 70px;
+    padding: 15px;
+}
+.dangnhap {
+    height: 100vh; width: 100%;
+        background-image: url(nick-hillier-xBXF9pr6LQo-unsplash.jpg);
+        background-repeat: no-repeat;
+        position: relative;
+        background-size: 100%;
+      
+}
+.cap {
+    width: 500px;
+    color: white;
+    background-color: orange;
+    padding-left: 200px;
+    font-size: 30px;
+    padding: 15px 15px; 
+    border-radius: 20px;    
+}
+.cap1 {
+    font-family: "Great Vibes", cursive;
+}
+.logo {
+     padding-left: 190px;
+     padding-top: 20px  ;
+}
+
+.dangnhap1 {
+    display: flex;
+    margin: auto;
+    width: 1500px;
+    padding-top: 200px;  
+    align-items: center;
+    padding-left: 100px;
+}
+
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+}
+.login-form{
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 15px;
+    border: 2px dotted #cccccc;
+    border-radius: 10px;
+}
+h1{
+    color: orange;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.input-box{
+    margin-bottom: 10px;
+}
+.input-box input{
+    padding: 7.5px 15px;
+    width: 100%;
+    border: 1px solid #cccccc;
+    outline: none;
+}
+.dk-box {
+    text-align: right;
+    margin-top: 30px;
+}
+#btn-box{
+    text-align: right;
+    margin-top: 30px;
+}
+#btn-box button{
+    padding: 7.5px 15px;
+    border-radius: 2px;
+    background-color: orange;
+    color: #ffffff;
+    border: none;
+    outline: none;
+}
